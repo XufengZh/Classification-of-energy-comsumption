@@ -1,4 +1,4 @@
-# Classification-of-energy-comsumption
+# Classification-of-energy-consumption
 
 ## Description
 
